@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: paintnine
+Version: 0.0.1
+Summary: Make lovely art with plotnine
+Home-page: https://github.com/isabelizimm/paintnine
+Author: Isabel Zimmerman
+Author-email: i.zimmerman@me.com
+License: MIT
+Keywords: data,plotting,art
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+## Lovely
+
